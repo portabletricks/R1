@@ -9,6 +9,6 @@ namespace WindowsFormsApplication1
     class Class1
     {
         public int MyProperty { get; set; }
-        public int MyaPropddderty { get; set; }
+        public int MyaPropdddsserty { get; set; }
     }
 }
